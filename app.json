@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myNavigationDrawer",
-    "slug": "myNavigationDrawer",
+    "name": "myNavigationNested",
+    "slug": "myNavigationNested",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
